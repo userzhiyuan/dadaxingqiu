@@ -1,5 +1,5 @@
 # dadaxingqiu
-支付宝答题星球自动答题
+支付宝答答星球自动答题
 python,adb,Android，baidu-aip
 
 启动程序<br>
